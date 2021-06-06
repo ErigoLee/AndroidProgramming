@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseAppCL</string>
+    <string name="str1Btn1">나는 버튼입니다.</string>
+    <string name="str1Btn2">두 번째 버튼입니다.</string>
+</resources>
