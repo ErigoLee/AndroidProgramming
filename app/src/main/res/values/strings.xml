@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter2</string>
+    <string name="Text1">숫자1</string>
+    <string name="Text2">숫자2</string>
+    <string name="Btn1">더하기</string>
+    <string name="Btn2">빼기</string>
+    <string name="Text3">계산 결과:</string>
+</resources>
